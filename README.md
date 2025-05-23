@@ -1,8 +1,7 @@
-![banner]([https://github.com/Chopiwix/Chopiwix/blob/main/b5226ec8-9101-4e10-8253-7f2565b3062a.png](https://drive.google.com/file/d/1K7PUR5bVsglCSZgEzSkIdwpwXpghYP2o/view?usp=sharing))
-
 # 💻 QA Tester | Manual y Automatizado
 
 ¡Hola! Soy Marina 👋
+
 🧪 **QA Tester Junior** especializada en pruebas manuales y automatizadas.  
 🚀 En constante formación para mejorar la calidad del software y la experiencia del usuario.  
 🌎 Apasionada por la mejora continua, el detalle y la colaboración con equipos tech.
