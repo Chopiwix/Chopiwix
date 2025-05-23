@@ -1,16 +1,33 @@
-## Hi there 👋
+![banner]([./nombre-de-tu-imagen.png](https://github.com/user-attachments/assets/8b7dee7e-b1b5-4c08-a979-5d16cc1c961e))
 
-<!--
-**Chopiwix/Chopiwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Marina 👋
 
-Here are some ideas to get you started:
+🧪 **QA Tester Junior** especializada en pruebas manuales y automatizadas.  
+🚀 En constante formación para mejorar la calidad del software y la experiencia del usuario.  
+🌎 Apasionada por la mejora continua, el detalle y la colaboración con equipos tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Habilidades
+
+### Pruebas y Automatización
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-blue?style=for-the-badge)
+
+### Gestión y Documentación
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Apidoc](https://img.shields.io/badge/API--Doc-blue?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Programación y Bases de Datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+---
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/TULINK/](https://www.linkedin.com/in/marina-barreiro-vargas/))
+✉️ marinitachii01@gmail.com
+
