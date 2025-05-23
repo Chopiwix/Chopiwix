@@ -1,4 +1,4 @@
-![banner](./b5226ec8-9101-4e10-8253-7f2565b3062a.png)
+![banner](https://github.com/Chopiwix/Chopiwix/blob/main/b5226ec8-9101-4e10-8253-7f2565b3062a.png)
 
 # ¡Hola! Soy Marina 👋
 
