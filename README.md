@@ -1,4 +1,4 @@
-![banner]([./nombre-de-tu-imagen.png](https://github.com/user-attachments/assets/8b7dee7e-b1b5-4c08-a979-5d16cc1c961e))
+![banner](./b5226ec8-9101-4e10-8253-7f2565b3062a.png)
 
 # ¡Hola! Soy Marina 👋
 
