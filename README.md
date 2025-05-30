@@ -32,7 +32,8 @@ Herramientas que utilizo en mi trabajo:
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-nombre-de-usuario/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marina-barreiro-vargas/)
+
 [marinitachii01@gmail.com](mailto:marinitachii01@gmail.com)
 
 
