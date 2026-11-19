@@ -1,58 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chopiwix/Portafolio/main/assets/img/marina-perfil.jpg" alt="Fotografía de Marina Barreiro Vargas" width="155">
+</p>
 
-# Marina Barreiro Vargas
+# ¡Hola! Soy Marina Barreiro Vargas 👋
 
 **QA Tester Junior | QA Manual | API Testing | Automatización con Python**
 
-Me interesa encontrar errores antes de que lleguen a las personas usuarias: diseño pruebas, documento hallazgos y automatizo escenarios funcionales.
+Me gusta analizar requisitos, descubrir escenarios que pueden fallar y documentar hallazgos de forma clara. Aquí comparto código y evidencias de mis proyectos de pruebas manuales, automatización web y API REST.
 
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-Ver%20proyectos-153E63?style=for-the-badge)](https://chopiwix.github.io/Portafolio/)
+[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-Ver%20mi%20trabajo-153E63?style=for-the-badge)](https://chopiwix.github.io/Portafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-barreiro-vargas/)
 [![Email](https://img.shields.io/badge/Email-Contacto-217C77?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.trinidad.bv@gmail.com)
 
-</div>
-
 ---
 
-### 👋 Sobre mí
-
-Soy QA Tester Junior con proyectos de pruebas manuales, pruebas de API y automatización web. Trabajo con casos positivos y negativos, valores límite, validación de respuestas HTTP, localizadores y documentación de defectos.
-
-Mi formación en Psicología y mi experiencia en coordinación de procesos me aportan atención al detalle, comunicación y pensamiento analítico.
-
-### 🛠️ Tecnologías y prácticas
+## 🛠️ Tecnologías y prácticas
 
 | Área | Herramientas y conocimientos |
 | --- | --- |
-| **Automatización web** | Python · Selenium WebDriver · Pytest · XPath · esperas explícitas |
-| **Pruebas de API** | HTTP · JSON · Python Requests · Pytest · Postman |
-| **QA manual** | Casos de prueba · checklists · pruebas funcionales · regresión · valores límite |
-| **Seguimiento y análisis** | Jira · Git/GitHub · SQL (básico) · documentación de incidencias |
+| **QA manual** | Casos de prueba, checklists, pruebas funcionales y de regresión, valores límite |
+| **Automatización web** | Python, Selenium WebDriver, Pytest, XPath, esperas explícitas |
+| **API Testing** | HTTP, JSON, Python Requests, Pytest, Postman |
+| **Análisis y seguimiento** | Jira, Git/GitHub, SQL básico, documentación de incidencias |
 
-### 📌 Proyectos destacados
+## 📌 Proyectos destacados
 
-| Proyecto | Qué demuestra | Enlaces |
+| Proyecto | Qué contiene | Código y evidencias |
 | --- | --- | --- |
-| **🚕 Urban Routes** | Automatización de un flujo de solicitud de taxi con Selenium, Python y Pytest; verificaciones de interfaz y acciones del usuario | [Código y documentación](https://github.com/Chopiwix/qa-project-Urban-Routes-es) |
-| **🧪 Urban Grocers** | Pruebas de API REST con Requests y Pytest; 9 escenarios parametrizados para validar el campo `name` y códigos HTTP | [Código y documentación](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es) |
-| **📚 Portafolio de QA manual** | Evidencia de diseño y ejecución de pruebas web, API, móvil, revisión de logs y SQL | [Ver todos los proyectos](https://chopiwix.github.io/Portafolio/proyectos.html) |
+| **🚕 Urban Routes** | Automatización de escenarios de solicitud de taxi con Selenium y Pytest | [Explorar repositorio](https://github.com/Chopiwix/qa-project-Urban-Routes-es) |
+| **🧪 Urban Grocers** | Nueve escenarios parametrizados para validar el campo `name` de una API REST | [Explorar repositorio](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es) |
+| **📋 Portafolio de QA** | Documentación de pruebas manuales, web, móvil, API, SQL y análisis de logs | [Ver proyectos](https://chopiwix.github.io/Portafolio/proyectos.html) |
 
-### 🔎 Mi enfoque de trabajo
+## 🔎 Mi enfoque de trabajo
 
-**Entender requisitos → definir escenarios → ejecutar pruebas → documentar resultados → dar seguimiento a incidencias.**
+**Analizar requisitos → diseñar escenarios → ejecutar pruebas → documentar hallazgos → dar seguimiento.**
 
-### 🎓 Formación
+## 🎓 Formación
 
 - **Quality Assurance Engineering**, TripleTen (2025).
 - **Licenciatura en Psicología**, CEUM (2022).
-- Formación técnica en Administración de Recursos Humanos (2018).
+- **Técnica en Administración de Recursos Humanos**, CBTIS 120 (2018).
 
 ---
 
-<div align="center">
+📍 México · Interesada en oportunidades de **QA Tester Junior, QA Manual y automatización inicial**.
 
-📍 México · **Abierta a oportunidades de QA Tester Junior y QA Manual**
+**[🌐 Portafolio](https://chopiwix.github.io/Portafolio/) · [💼 LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [✉️ Contacto](mailto:marina.trinidad.bv@gmail.com)**
 
-[🌐 Portafolio completo](https://chopiwix.github.io/Portafolio/) · [💼 LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [✉️ Correo](mailto:marina.trinidad.bv@gmail.com)
-
-</div>
+<small>Los proyectos presentados corresponden a ejercicios y experiencias prácticas de formación en QA.</small>
