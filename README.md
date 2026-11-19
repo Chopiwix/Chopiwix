@@ -10,7 +10,7 @@ Me gusta analizar requisitos, descubrir escenarios que pueden fallar y documenta
 
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-Ver%20mi%20trabajo-153E63?style=for-the-badge)](https://chopiwix.github.io/Portafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-barreiro-vargas/)
-[![Email](https://img.shields.io/badge/Email-Contacto-217C77?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.trinidad.bv@gmail.com)
+📧 **Contacto:** `marina.trinidad.bv@gmail.com` (copia y pega esta dirección)
 
 ---
 
@@ -45,6 +45,6 @@ Me gusta analizar requisitos, descubrir escenarios que pueden fallar y documenta
 
 📍 México · Interesada en oportunidades de **QA Tester Junior, QA Manual y automatización inicial**.
 
-**[🌐 Portafolio](https://chopiwix.github.io/Portafolio/) · [💼 LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [✉️ Contacto](mailto:marina.trinidad.bv@gmail.com)**
+**[🌐 Portafolio](https://chopiwix.github.io/Portafolio/) · [💼 LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · ✉️ Correo: `marina.trinidad.bv@gmail.com`**
 
 <small>Los proyectos presentados corresponden a ejercicios y experiencias prácticas de formación en QA.</small>
